@@ -6,11 +6,11 @@ This is a real-time chat rooms app. It allows users to join different chat rooms
 
 To install the app, clone the repository and run npm install to install the required dependencies:
 
-- clone repo
+- clone repo:
 `git clone git@github.com:ibrahimahmed237/Chat-app.git`
-- install npm
+- install npm:
 npm install
-- run app
+- run app:
 npm run start
 visit http://localhost:3000 in your web browser. You can then specify your username and chat room
 
