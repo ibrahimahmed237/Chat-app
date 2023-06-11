@@ -10,11 +10,10 @@ To install the app, clone the repository and run npm install to install the requ
 `git clone git@github.com:ibrahimahmed237/Chat-app.git`
 - install npm:
 npm install
+- run app: "npm run start" then visit http://localhost:3000 in your web browser. 
 ## Live Demo
-You can see a live demo of the website at https://chat-rooms-app-at0a.onrender.com/
-- run app:
-npm run start
-visit http://localhost:3000 in your web browser. You can then specify your username and chat room
+- You can see a live demo of the website at https://chat-rooms-app-at0a.onrender.com/ 
+- You can then specify your username and chat room
 
 Once you've joined a chat room, you can start sending messages to other users in real-time. You can also share your location with other users by clicking the location button in the chat window.
 ## Used Technologies
