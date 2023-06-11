@@ -10,7 +10,7 @@ To install the app, clone the repository and run npm install to install the requ
 `git clone git@github.com:ibrahimahmed237/Chat-app.git`
 - install npm:
 npm install
-##Live Demo
+## Live Demo
 You can see a live demo of the website at https://chat-rooms-app-at0a.onrender.com/
 - run app:
 npm run start
